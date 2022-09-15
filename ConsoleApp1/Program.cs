@@ -14,6 +14,7 @@ namespace ConsoleApp1
                 try
                 {
                     trashList.Add(new Thrash());
+
                 }
                 catch (Exception e)
                 {
